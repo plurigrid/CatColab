@@ -1,0 +1,2 @@
+import{c as t,av as e,t as r}from"./index-C_8FmDQy.js";import p from"./help_layout-BMxNNmMI.js";import"./toolbar-CdssWZ12.js";import"./download-hvuwbawZ.js";import"./rotate-ccw-COdtcPS3.js";import"./settings-zg8ucD_r.js";var a=r("<h1>404"),i=r("<p>Sorry, we couldn't find this page.");function s(){const o="CatColab [Plurigrid]";return[t(e,{get children(){return["404 Not Found - ",o]}}),t(p,{get children(){return[a(),i()]}})]}export{s as default};
+//# sourceMappingURL=404_page-BOeeCrQa.js.map

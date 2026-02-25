@@ -1,0 +1,3 @@
+import{j as e}from"./jsx-BrZF2bhg.js";import{aL as a}from"./index-C_8FmDQy.js";function n(o){const t={a:"a",p:"p",...o.components};return e(a,{children:e(t.p,{children:[`Full documentation for this logic has not yet been written.
+In the meantime, please do reach out to us (through `,e(t.a,{href:"https://github.com/ToposInstitute/CatColab",children:"GitHub"}),", ",e(t.a,{href:"https://catcolab.zulipchat.com",children:"Zulip"}),", or ",e(t.a,{href:"mailto:catcolab@topos.institute",children:"email"}),") with any questions."]})})}function r(o={}){const{wrapper:t}=o.components||{};return t?e(t,{...o,children:e(n,{...o})}):n(o)}export{r as default};
+//# sourceMappingURL=logic-help-not-found-CNH1PAEf.js.map

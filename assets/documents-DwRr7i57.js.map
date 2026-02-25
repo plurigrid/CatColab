@@ -1,0 +1,1 @@
+{"version":3,"file":"documents-DwRr7i57.js","sources":["../../../ui-components/src/spinner.tsx"],"sourcesContent":["import \"./spinner.css\";\n\nexport function Spinner() {\n    return <div class=\"spinner\" aria-label=\"Loading...\" />;\n}\n"],"names":["Spinner","_tmpl$"],"mappings":"6FAEO,SAASA,GAAU,CACtB,OAAAC,EAAAA,CACJ"}

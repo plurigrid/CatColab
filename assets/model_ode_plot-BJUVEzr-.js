@@ -1,0 +1,2 @@
+import{z as l}from"./index-C_8FmDQy.js";function m(i,c){return l(()=>{const e=i();if(e?.tag!=="Valid")return;const t=e.model,o=c(t);if(o?.tag!=="Ok")return o;const n=o.content,a=[];for(const s of t.obGenerators()){const r=n.states.get(s);r!==void 0&&a.push({name:t.obGeneratorLabel(s)?.join(".")??"",data:r})}return{tag:"Ok",content:{time:n.time,states:a}}},void 0,{equals:!1})}export{m as c};
+//# sourceMappingURL=model_ode_plot-BJUVEzr-.js.map
